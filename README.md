@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @griffinfulton
+- 👀 I’m a undergrad student looking to learn python for data anlaytics.
+- You can reach me @ my email gfulto.9@gmail.com
